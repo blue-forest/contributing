@@ -14,6 +14,20 @@ As soon as necessary, we will set up a procedure and a best practices guide in t
 
 Thank you for your interest !
 
+### Workflow
+
+We use the following tools on GitHub :
+- **Issues** to reference and process bugs
+- **Pull Requests** to release new versions
+- **Discussions** to exchange with us and answer your questions
+- **Actions** to manage our tests and deployments
+
+The development of drop'in features is divided into seasons and episodes set up as Milestones on GitHub. The attribution of an Issue or a Pull Request to a Milestone is considered to be scheduled to an upcoming implementation.
+
+There are two main branches :
+- **main** : contains the most stable version of the code
+- **develop** : contains the code with all the latest updates
+
 ### Files license header
 
-In most of the repositories concerned, you will find a `./etc/init.sh` script that will automatically add a Git hook to insert the license header at the beginning of new source files.
+In most of the repositories concerned, you will find a script (`./etc/init.sh`) that will automatically add a Git hook to insert the license header at the beginning of new source files.
