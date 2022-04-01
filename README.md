@@ -3,8 +3,8 @@
 ## Issues
 
 If you experience any trouble running our source codes, please post an issue on the concerned GitHub repository and we will do our best to process it :
-- [dropin-compiler](https://github.com/theblueforest/dropin-compiler/issues/new)
-- [wasm-ir](https://github.com/theblueforest/wasm-ir/issues/new)
+- [dropin](https://github.com/blue-forest/dropin/issues/new)
+- [wasm-ir](https://github.com/blue-forest/wasm-ir/issues/new)
 
 ## Development
 
