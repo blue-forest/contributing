@@ -101,15 +101,13 @@ merged into the RFC repository as a markdown file. At that point the RFC is
 "active" and may be implemented with the goal of eventual inclusion into
 drop'in.
 
-  - [Fill a new Issue](https://github.com/blue-forest/dropin/issues/new?assignees=&labels=&template=feature_request.md&title=). Put care into the details: RFCs that do not present
+  - [Fill a new Issue](https://github.com/blue-forest/dropin/issues/new?assignees=&labels=&template=RFC.yml&title=). Put care into the details: RFCs that do not present
     convincing motivation, demonstrate lack of understanding of the design's
     impact, or are disingenuous about the drawbacks or alternatives tend to
     be poorly-received.
   - Submit a pull request. As a pull request the RFC will receive design
     feedback from the larger community, and the author should be prepared to
     revise it in response.
-  - Now that your RFC has an open pull request, use the issue number of the PR
-    to update your `0000-` prefix to that number.
   - Each pull request will be labeled with the most relevant sub-team, which
     will lead to its being triaged by that team in a future meeting and assigned
     to a member of the subteam.
