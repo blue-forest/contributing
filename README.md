@@ -3,7 +3,7 @@
 ## Issues
 
 If you experience any trouble running our source codes, please post an issue on the concerned GitHub repository and we will do our best to process it :
-- [dropin](https://github.com/blue-forest/dropin/issues/new)
+- [kiwi-bundle](https://github.com/kiwi-bundle/dropin/issues/new)
 
 ## Development
 
