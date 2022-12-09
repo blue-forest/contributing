@@ -4,6 +4,7 @@
 
 If you experience any trouble running our source codes, please post an issue on the concerned GitHub repository and we will do our best to process it :
 - [kiwi-bundle](https://github.com/blue-forest/kiwi-bundle/issues/new)
+- [dropin](https://github.com/blue-forest/dropin/issues/new)
 
 ## Development
 
